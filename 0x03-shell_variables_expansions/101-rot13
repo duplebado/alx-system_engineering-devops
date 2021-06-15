@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'A-Za-z' 'N-ZA-Mn-za-m
+echo 'c2JiCg==' | base64 --decode | tr 'n-za-mN-ZA-M' 'a-zA-Z'
